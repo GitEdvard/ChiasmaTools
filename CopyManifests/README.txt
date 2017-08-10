@@ -1,0 +1,1 @@
+This application recursively copies all .csv files from entered root directory to a target destination. The defalult source directory is where the manifest files are located, and most of the .csv files copied are manifest files. 
